@@ -1,5 +1,6 @@
 "use client";
 
+// React icons
 import { BiSearch } from "react-icons/bi";
 
 export default function Search() {
